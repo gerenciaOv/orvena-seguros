@@ -1,14 +1,16 @@
-ORVENA SEGUROS — SITE PRONTO
+ORVENA SEGUROS — SITE FINAL COM AVALIAÇÕES
 
-Este pacote contém o site completo. O arquivo styles.css é o arquivo de estilo e script.js é o arquivo de funcionamento.
+Pacote completo do site da Orvena Seguros.
 
-Arquivos principais:
-index.html
-styles.css
-script.js
-contato.html
-sobre.html
-privacidade.html
-robots.txt
-sitemap.xml
-assets/
+Informações oficiais incorporadas:
+• Orvena Seguros
+• WhatsApp e telefone: (11) 2088-8000
+• Atendimento: atendimento@orvenaseguros.com.br
+• Financeiro / Comissões: administrativo@orvenaseguros.com.br
+• CNPJ: 02.099.657/0001-83
+• Atendimento home office, sem endereço físico
+• Instagram atual: @orix_seguros (a conta poderá ter o usuário alterado futuramente)
+• 3 avaliações reais de 5 estrelas, com nomes dos clientes removidos
+• Identidade visual do manual da marca
+
+O site já contém HTML, CSS, JavaScript, logo, favicon, páginas institucionais, contato, privacidade, SEO básico, WhatsApp e Instagram.

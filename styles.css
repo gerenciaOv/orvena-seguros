@@ -16,3 +16,18 @@
 .footer{background:var(--green);color:#fff;padding:55px 8vw 25px}.footer-top{display:grid;grid-template-columns:1fr 1fr 1fr;align-items:center;gap:35px}.footer-top p{font:400 21px/1.1 var(--serif);color:rgba(255,255,255,.7)}.footer-nav{display:flex;justify-content:flex-end;gap:24px;font-size:9px}.footer-bottom{border-top:1px solid rgba(255,255,255,.13);margin-top:45px;padding-top:17px;display:flex;justify-content:space-between;gap:20px;font-size:8px;color:rgba(255,255,255,.42)}.whatsapp{position:fixed;right:20px;bottom:20px;width:55px;height:55px;border-radius:50%;background:var(--bronze);color:var(--green);display:grid;place-items:center;font-size:9px;font-weight:800;z-index:40}
 @media(max-width:1050px){.cards,.features,.process{grid-template-columns:1fr 1fr}.hero{grid-template-columns:1fr}.visual{display:none}.about,.trust,.contact{grid-template-columns:1fr}.footer-top{grid-template-columns:1fr 1fr}}
 @media(max-width:720px){.topbar{padding:0 5vw}.topbar span:last-child{display:none}.header{padding:0 5vw}.menu{display:block}.nav{display:none;position:absolute;left:0;right:0;top:118px;background:var(--off);padding:18px 6vw;flex-direction:column;align-items:stretch;border-bottom:1px solid var(--line)}.nav.open{display:flex}.nav .cta{text-align:center}.hero{padding:70px 7vw 95px;min-height:650px}.hero h1{font-size:58px}.scroll{left:7vw}.pillars{grid-template-columns:1fr;padding:12px 7vw}.pillars div{grid-template-columns:25px auto;padding:11px 0;border-right:0;border-bottom:1px solid rgba(24,53,46,.2)}.pillars span{grid-column:2}.section,.dark,.trust,.contact{padding:78px 7vw}.cards,.features,.process{grid-template-columns:1fr}.about-art{min-height:390px}.about-copy{padding:70px 7vw}.values{grid-template-columns:1fr}.footer{padding:45px 7vw 25px}.footer-top{grid-template-columns:1fr}.footer-nav{justify-content:flex-start}.footer-bottom{flex-direction:column}.form{padding:27px}}
+
+/* Avaliações reais — integração visual conforme manual Orvena */
+.testimonials{grid-template-columns:1fr;gap:55px}
+.testimonials .trust-content{max-width:820px}
+.reviews-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.testimonial{background:var(--off);border:1px solid rgba(24,53,46,.10);padding:30px 28px 26px;min-height:360px;display:flex;flex-direction:column;justify-content:space-between;position:relative}
+.testimonial:before{content:"";position:absolute;left:0;top:0;width:42px;height:2px;background:var(--bronze)}
+.testimonial-top{display:flex;justify-content:space-between;align-items:center;gap:12px}
+.google-label{font-size:8px;letter-spacing:2px;color:var(--stone);font-weight:700}
+.testimonial .stars{font-size:13px;letter-spacing:2px;color:var(--bronze);margin:0}
+.testimonial-text{font:400 20px/1.24 var(--serif)!important;color:var(--green)!important;margin:27px 0!important;max-width:none!important}
+.testimonial-bottom{border-top:1px solid var(--line);padding-top:15px;display:flex;justify-content:space-between;align-items:center}
+.testimonial-bottom span{font-size:9px;letter-spacing:1px;text-transform:uppercase;color:var(--green);font-weight:700}
+.testimonial-bottom small{font-size:8px;color:var(--stone)}
+@media(max-width:1050px){.reviews-grid{grid-template-columns:1fr}.testimonial{min-height:auto}}
