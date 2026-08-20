@@ -1,33 +1,14 @@
 ORVENA SEGUROS — SITE PRONTO
 
-Este é o pacote do site institucional da Orvena Seguros já montado e pronto para ser publicado.
+Este pacote contém o site completo. O arquivo styles.css é o arquivo de estilo e script.js é o arquivo de funcionamento.
 
-Você não precisa preencher textos, criar páginas ou configurar o formulário para o funcionamento básico.
-
-Já estão incorporados:
-• Nome: Orvena Seguros
-• WhatsApp/telefone: (11) 8785-4321
-• E-mail: contato@orvenaseguros.com.br
-• Endereço: Av. Brigadeiro Faria Lima, 3364 • 12º andar • Itaim Bibi • São Paulo/SP
-• Identidade visual do manual da marca
-• Monograma QV
-• Home institucional
-• Soluções
-• A Orvena
-• Diferenciais
-• Processo de atendimento
-• Área de confiança
-• FAQ
-• Contato
-• WhatsApp flutuante
-• Formulário que abre o WhatsApp já com a mensagem preenchida
-• Página de privacidade base
-• Favicon
-• robots.txt
-• sitemap.xml
-• versão responsiva para celular, tablet e computador
-
-IMPORTANTE:
-Os dados acima foram usados a partir do material fornecido no projeto. Informações jurídicas que não foram fornecidas, como CNPJ e razão social, não foram inventadas.
-
-Para colocar o site no ar, basta entregar este pacote à pessoa/empresa que fará a hospedagem ou publicação do site.
+Arquivos principais:
+index.html
+styles.css
+script.js
+contato.html
+sobre.html
+privacidade.html
+robots.txt
+sitemap.xml
+assets/

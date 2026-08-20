@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.orvenaseguros.com.br/sitemap.xml
